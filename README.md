@@ -40,5 +40,7 @@ During the development, various feature sets were experimented with. Incorporati
 
 Additionally, the Gaussian Mixture Model (GMM) algorithm was evaluated as an alternative to KMeans for clustering. However, KMeans was ultimately chosen for its simplicity, efficiency, and the quality of clustering achieved in the context of this project.
 
+![Sequence Diagram](images/sequence_diagram.png "Sequence Diagram")
+
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
